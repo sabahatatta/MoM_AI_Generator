@@ -1,0 +1,7 @@
+openai==0.27.8          # For querying the OpenAI API
+gradio==3.41.2          # For creating the web interface
+python-dotenv==1.0.0    # For loading environment variables from .env file
+pytest==7.4.2           # For unit testing
+requests==2.31.0        # For handling HTTP requests
+#smtplib3==1.0.5         # For email services (alternative SMTP library)
+huggingface_hub
